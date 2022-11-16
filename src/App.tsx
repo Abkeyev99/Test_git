@@ -20,6 +20,9 @@ function App() {
         </a>
       </header>
       <p>LOREN OPEN</p>
+        <ul>Hi What are you dong?</ul>
+        <ul>Hi What are you dong?</ul>
+        <ul>Hi What are you dong?</ul>
     </div>
   );
 }
